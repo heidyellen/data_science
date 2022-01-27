@@ -4,31 +4,29 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Heidyellen Costa
+<sub>Especialista em Administração de Banco de Dados</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sou Analista de Sistemas, pós-graduada em Administração em banco de dados Oracle, com mais de 15 anos de experiência na área de tecnologia, experiência em suporte a usuários, servidores, infra-estrutura (redes) e configuração de hardware e software, conhecimentos em Sistema SAP/R3 Professional, Linguagens/Técnicas de programação Web (HTML e C#), Ferramentas de Apoio (Open Office e MS Project), conhecimento em sistemas gerenciadores de Banco de dados, Modelo de dados, PL/SQL, banco de dados (Oracle 11g e Postgresql), Data Science e Python.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Sou uma profissional organizada, e isso me permite trabalhar sob pressão, sabendo priorizar tarefas. Possuo habilidade em lidar com pessoas, resolver conflitos e fornecer soluções.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Durante minha carreira profissional trabalhei com tecnologia, mapeamento de processos, processos gerenciais, gestão financeira para acompanhamento e controle de rotinas da minha empresa (MEI). Com essa experiencia aprendi a importância de se possuir informações consistentes e o valor de se alcançar conquistas através de melhorias de performance.
+
+
+
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/heidyellen-costa-4706661a9/)
+* [Medium](https://medium.com/@heidycsc)
+
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
 
 ---
 
