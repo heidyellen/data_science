@@ -5,7 +5,7 @@
 </p>
 
 # Heidyellen Costa
-<sub>Especialista em Administração de Banco de Dados</sub>
+<sub>Analista de Dados</sub>
 
 Sou Analista de Sistemas, pós-graduada em Administração em banco de dados Oracle, com mais de 15 anos de experiência na área de tecnologia, experiência em suporte a usuários, servidores, infra-estrutura (redes) e configuração de hardware e software, conhecimentos em Sistema SAP/R3 Professional, Linguagens/Técnicas de programação Web (HTML e C#), Ferramentas de Apoio (Open Office e MS Project), conhecimento em sistemas gerenciadores de Banco de dados, Modelo de dados, PL/SQL, banco de dados (Oracle 11g e Postgresql), Data Science e Python.
 
