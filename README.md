@@ -11,9 +11,6 @@ Sou Analista de Sistemas, pós-graduada em Administração em banco de dados Ora
 
 Sou uma profissional organizada, e isso me permite trabalhar sob pressão, sabendo priorizar tarefas. Possuo habilidade em lidar com pessoas, resolver conflitos e fornecer soluções.
 
-Durante minha carreira profissional trabalhei com tecnologia, mapeamento de processos, processos gerenciais, gestão financeira para acompanhamento e controle de rotinas da minha empresa (MEI). Com essa experiencia aprendi a importância de se possuir informações consistentes e o valor de se alcançar conquistas através de melhorias de performance.
-
-
 
 
 **Links:**
